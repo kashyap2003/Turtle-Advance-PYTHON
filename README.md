@@ -1,4 +1,4 @@
 # Turtle-Advance-PYTHON
-Advance codes for Turtle 
+Advance codes of Turtle 
 
 Enjoy 😀
